@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "614105344312",
+    "firebase_url": "https://vitalcheck-dc088-default-rtdb.firebaseio.com",
+    "project_id": "vitalcheck-dc088",
+    "storage_bucket": "vitalcheck-dc088.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614105344312:android:80a78ae4437caee3bc79cd",
+        "android_client_info": {
+          "package_name": "com.example.vitalcheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBENJbM6zc1md_b8LYYtT7ANo14jsC313E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
